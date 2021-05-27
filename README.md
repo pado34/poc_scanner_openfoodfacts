@@ -7,3 +7,4 @@ Après avoir scanner un produit(alimentaire) avec le smartphone cela le cherche 
 puis affiche simplement le nom et l'image du produit.
 
 Vidéo démonstrative(app_exemple.mp4) utilise le code barre mis dans le repo(monster.png).
+Vous pouvez scanner n'importe quel produit alimentaire et si il est dans la base de données de openfoodfacts il sera reconnu.
