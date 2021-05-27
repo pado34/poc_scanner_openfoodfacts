@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fridgeree</string>
+    <string name="results_appear_here">Results appear here</string>
+    <string name="scan">Scan</string>
+</resources>
